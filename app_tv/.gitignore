@@ -1,0 +1,12 @@
+# Ignorar la instalación local del SDK de Flutter
+/flutter/
+
+# Archivos y carpetas generados por Flutter (buenas prácticas)
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+*.iml
+*.ipr
+*.iws
